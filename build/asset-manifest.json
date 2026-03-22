@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ascii-art-filter/static/css/main.43b21f8c.css",
+    "main.js": "/ascii-art-filter/static/js/main.e2c20def.js",
+    "static/js/512.f683d278.chunk.js": "/ascii-art-filter/static/js/512.f683d278.chunk.js",
+    "static/media/bg.png": "/ascii-art-filter/static/media/bg.f2434aff1659b94dc393.png",
+    "index.html": "/ascii-art-filter/index.html",
+    "main.43b21f8c.css.map": "/ascii-art-filter/static/css/main.43b21f8c.css.map",
+    "main.e2c20def.js.map": "/ascii-art-filter/static/js/main.e2c20def.js.map",
+    "512.f683d278.chunk.js.map": "/ascii-art-filter/static/js/512.f683d278.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43b21f8c.css",
+    "static/js/main.e2c20def.js"
+  ]
+}
